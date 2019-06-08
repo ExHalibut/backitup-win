@@ -66,4 +66,3 @@ Else {
   Write-Host "BackItUp - $Destination does not exist"
   Write-Host "BackItUp - Backup failed"
 }
-
